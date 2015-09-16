@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:13.214297
+#+DATE: 2015-08-30 20:56:15.685691
 #+TITLE: 成唯識論演祕
 #+PROPERTY: CBETA_ID T43n1833
 #+PROPERTY: ID KR6n0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1833
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6n0032_T_001-0811a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1833[cf.No.1830]¶
-
- 第一本成唯識論演祕卷第一(本)¶
+No. 1833 [cf. No. 1830]¶
+成唯識論演祕卷第一(本)¶
 ¶
 沙門智周撰¶
 
@@ -680,7 +679,7 @@ No.1833[cf.No.1830]¶
 云勝。故大般若五十五云。云何當知已圓
 <pb:KR6n0032_T_001-0817c>¶
 滿。第十法雲地菩薩。與諸如來應言無異。¶
-善現是菩薩已圓滿六波羅蜜多．八定．三十¶
+善現是菩薩已圓滿六波羅密多．八定．三十¶
 七道．三三昧．五眼．六通．佛十力．四無畏．無¶
 礙．無量．十八不共．一切智．道相智．一切相¶
 智．一切佛法故。若復永斷一切煩惱習氣相¶
@@ -1384,8 +1383,7 @@ No.1833[cf.No.1830]¶
 成唯識論演祕卷第一(本終)¶
 ¶
 ¶
-
- 第一末成唯識論演祕卷第一(末)¶
+成唯識論演祕卷第一(末)¶
 ¶
 
 論。所信至教者。問何者言教得至教名¶
