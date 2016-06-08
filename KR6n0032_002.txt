@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:13.292163
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 成唯識論演祕
 #+PROPERTY: CBETA_ID T43n1833
 #+PROPERTY: ID KR6n0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 43, No. 1833
 #+PROPERTY: VOL 43
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0032_T_002-0834a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 第二本成唯識論演祕卷第二(本疏第二)¶
+成唯識論演祕卷第二(本疏第二)¶
 ¶
 沙門智周撰¶
 
@@ -689,7 +688,7 @@
 十釋。其正不正量可知矣。¶
 
 疏。初熏種時舊亦生種者。現行熏彼新熏種¶
-時。本有舊種亦復摶生一種子也。即是四¶
+時。本有舊種亦復搏生一種子也。即是四¶
 法同時起也。此非正義。¶
 
 疏。又簡遠近等者。審慮決定遠近如次皆是¶
@@ -1449,8 +1448,7 @@
 成唯識論演祕卷第二(本)¶
 ¶
 ¶
-
- 第二末成唯識論演祕卷第二(末)(論第二)¶
+成唯識論演祕卷第二(末)(論第二)¶
 ¶
 
 疏。如童女想等者。西域立法出逢童女¶
