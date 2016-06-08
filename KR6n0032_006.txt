@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:56:13.591060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:33
 #+TITLE: 成唯識論演祕
 #+PROPERTY: CBETA_ID T43n1833
 #+PROPERTY: ID KR6n0032
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 6
 ¶
 
- 第六本成唯識論演祕卷第六(疏第七餘)¶
+ 第六本
+** 2成唯識論演祕卷第六(疏第七餘)¶
 ¶
 沙門智周撰¶
 
